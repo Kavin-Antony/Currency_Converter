@@ -164,9 +164,7 @@ const updateExchangeRate = () => {
 };
 
 const getAvailableCurrencies = () => {
-  return state.currencies.filter(({ code }) => {
-    return state.target !== code || code === "RUB"; // Always include RUB even if it is set as the base or target
-  });
+  return state.currencies; // No filtering, return all currencies
 };
 
 const clearSearchInput = () => {
