@@ -46,7 +46,9 @@ A simple web-based currency converter that allows users to convert between diffe
 ```
 
 ## Static Website
-![Currency Converter UI]([https:kainantony](https://kavin-antony.github.io/Currency_Converter/))
+![Currency Converter UI](https://raw.githubusercontent.com/kavin-antony/Currency_Converter/main/screenshot.png)
+
+[Live Demo](https://kavin-antony.github.io/Currency_Converter/)
 
 ## Future Enhancements
 - Add error handling for API failures.
