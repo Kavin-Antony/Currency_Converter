@@ -17,7 +17,7 @@ A simple web-based currency converter that allows users to convert between diffe
 ## ⚙️ Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/Kavin-Antony/Currency_Converter.git
    ```
 2. Navigate to the project folder:
    ```sh
